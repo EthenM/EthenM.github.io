@@ -1,0 +1,22 @@
+header {
+    background-color: #000237;
+}
+
+h1 {
+    padding: 0;
+    margin: 0;
+}
+
+#page-title {
+    padding: 0.5em;
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
+
+#logo {
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 100%;
+    border: #dfdfdf solid 4px;
+}
