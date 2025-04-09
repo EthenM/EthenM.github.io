@@ -5,5 +5,6 @@ html, body {
     margin: 0;
     color: #dfdfdf;
     background: linear-gradient(45deg, #121212 -20%, #000237 50%, #121212 120%);
+    overscroll-behavior: contain;
     font-family: 'kanit', sans-serif;
 }
