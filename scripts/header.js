@@ -39,7 +39,7 @@ class PortfolioHeader extends HTMLElement {
         const navBar = document.createElement("pf-navbar")
         
         //the navBar will be a list of elements, that direct the user to the various pages
-        navBar.pages = ["home", "about_me", "creations", "resume"]
+        navBar.pages = ["home", "about", "projects", "resume"]
 
         header.appendChild(pageTitle)
         header.appendChild(navBar)

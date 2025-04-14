@@ -1,0 +1,82 @@
+html, body {
+    background: #000237;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+.resume-container {
+    max-width: 700px;
+    width: 100%;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin: 0;
+    color: #FFFFFF;
+}
+
+.contact {
+    font-size: 0.95rem;
+    color: #AAAAAA;
+    margin: 0.4rem;
+}
+
+a {
+    color: #6EC1E4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 0 0 5px #6EC1E4;
+}
+
+.section {
+    margin-bottom: 0.8rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.section-header {
+    font-size: 1.2rem;
+    border-left: 4px solid #6EC1E4;
+    padding-left: 0.5rem;
+    margin: 0 0 0.5rem;
+}
+
+h3 {
+    margin: 0.5rem 0 0.2rem;
+}
+
+h4 {
+    margin: 0.5rem 0 0.2rem;
+}
+
+ul {
+    padding-left: 1.2rem;
+    margin: 0.5rem 0;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.sub-text {
+    font-size: 0.7rem;
+    color: #AAAAAA;
+    margin: 0;
+}
+
+#jobTitle {
+    margin: 0;
+}
